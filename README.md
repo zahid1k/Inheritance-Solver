@@ -2,7 +2,7 @@
 
 Inheritance Solver for family tree
 
-#Input formats :
+Input formats :
 
 "CHILD A S B C D"  -> "A" and "S" are the parents of "B", "C", "D".
 "CHILD A S B"      -> "A" and "S" are the parents of "B".
